@@ -90,6 +90,6 @@ iframe {
 
 }
 body {
-	background-image: url("C:/Users/qmena/Desktop/vanhatvideot/img/background.png");
+	background-image: url("/img/background.png");
     background-attachment:fixed;
 }
