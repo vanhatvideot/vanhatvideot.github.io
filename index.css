@@ -1,3 +1,6 @@
+.ei {
+  	filter: grayscale(100%);
+}
 @font-face {
    font-family: gothic;
    src: url(gothic.ttf);
