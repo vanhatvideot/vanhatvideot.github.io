@@ -93,8 +93,9 @@ iframe {
 
 }
 body {
-	background-image: url("../img/background.png");
+	background-image: url("../img/background.gif");
         background-attachment:fixed;
 	background-position: center;
         background-size: cover;
+	background: color(rgba(0, 0, 0, 0.5)
 }
